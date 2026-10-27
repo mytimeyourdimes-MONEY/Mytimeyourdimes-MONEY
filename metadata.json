@@ -1,0 +1,6 @@
+{
+  "name": "My Time Your Dime's",
+  "description": "Hyper-local peer-to-peer task and service marketplace with escrow protection, mandatory ID verification, and daily payouts via Google Pay, PayPal, Cash App, and Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
